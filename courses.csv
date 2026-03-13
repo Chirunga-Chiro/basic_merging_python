@@ -1,0 +1,5 @@
+CourseID,CourseName,Department,DurationMonths,Fee
+C001,Software Engineering,Technology,12,150000
+C002,Data Science,Technology,10,130000
+C003,Digital Marketing,Business,6,80000
+C004,Graphic Design,Design,8,100000

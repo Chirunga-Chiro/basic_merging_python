@@ -1,0 +1,11 @@
+StudentID,FullName,Email,CourseID,JoinDate
+S001,James Mwangi,james.mwangi@email.com,C001,2024-02-10
+S002,Faith Njeri,faith.njeri@email.com,C002,2024-03-12
+S003,Kevin Otieno,kevin.otieno@email.com,C001,2024-03-20
+S004,Susan Achieng,susan.achieng@email.com,C003,2024-04-01
+S005,Brian Kamau,brian.kamau@email.com,C002,2024-04-15
+S006,Lucy Wanjiru,lucy.wanjiru@email.com,C004,2024-05-02
+S007,David Kiptoo,david.kiptoo@email.com,C001,2024-06-10
+S008,Naomi Wambui,naomi.wambui@email.com,C003,2024-06-25
+S009,Peter Njoroge,peter.njoroge@email.com,C004,2024-07-01
+S010,Esther Chebet,esther.chebet@email.com,C002,2024-07-18
